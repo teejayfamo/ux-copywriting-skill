@@ -1,0 +1,5 @@
+interface:
+  display_name: "UX Copywriting Skill"
+  short_description: "UX microcopy: clear, consistent, helpful"
+  brand_color: "#111827"
+  default_prompt: "Use $ux-copywriting to rewrite this UI copy for clarity, consistency, and helpful error guidance."
